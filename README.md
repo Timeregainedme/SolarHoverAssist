@@ -26,7 +26,7 @@
    ```
 2. 克隆项目：
    ```bash
-   git clone https://github.com/your-repo-name/SolarHoverAssist.git
+   git clone https://github.com/timeregainedme/SolarHoverAssist.git
    cd SolarHoverAssist
    ```
 3. 配置虚拟环境：
